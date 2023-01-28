@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"istream": "cpp",
+			"ostream": "cpp",
+			"stdlib.h": "c",
+			"string.h": "c",
+			"stdio.h": "c",
+			"random": "c",
+			"HW11.C": "cpp",
+			"math.h": "c",
+			"HW12.C": "cpp",
+			"HW_12.C": "cpp",
+			"HW012.C": "cpp",
+			"cmath": "cpp"
+		}
+	}
+}
